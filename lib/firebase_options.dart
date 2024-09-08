@@ -41,54 +41,51 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyD9KmihbLrUOnYAP7gSxwZAWy8MftoX364',
-    appId: '1:332708430788:web:de4f54cbe8ff469569da91',
-    messagingSenderId: '332708430788',
-    projectId: 'scape-nerf-fd54b',
-    authDomain: 'scape-nerf-fd54b.firebaseapp.com',
-    databaseURL: 'https://scape-nerf-fd54b-default-rtdb.firebaseio.com',
-    storageBucket: 'scape-nerf-fd54b.appspot.com',
-    measurementId: 'G-Y7RBRMMTCZ',
+    apiKey: 'Enter Value',
+    appId: 'Enter Enter Value,
+    messagingSenderId: 'Enter Value',
+    projectId: 'Enter Value',
+    authDomain: 'Enter Value',
+    Enter Enter Value',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB--1n_ZQy6ltqJJrKWBxUpXfH78lUu9aM',
+    apiKey: 'Enter Value',
     appId: '1:332708430788:android:b6e7ca0ebbb7e91469da91',
     messagingSenderId: '332708430788',
     projectId: 'scape-nerf-fd54b',
-    databaseURL: 'https://scape-nerf-fd54b-default-rtdb.firebaseio.com',
-    storageBucket: 'scape-nerf-fd54b.appspot.com',
+    databaseURL: 'Enter Database URL',
+    storageBucket: 'Enter Value',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBvxaBZPrwKsknvJNxWNObm0eM46v6tVxU',
+    apiKey: 'Enter Value',
     appId: '1:332708430788:ios:ca5ce1a2d2d6f1c169da91',
     messagingSenderId: '332708430788',
     projectId: 'scape-nerf-fd54b',
-    databaseURL: 'https://scape-nerf-fd54b-default-rtdb.firebaseio.com',
-    storageBucket: 'scape-nerf-fd54b.appspot.com',
+    databaseURL: 'Enter Database URL',
+    storageBucket: 'Enter Value',
     iosBundleId: 'com.example.myApp',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBvxaBZPrwKsknvJNxWNObm0eM46v6tVxU',
+    apiKey: 'Enter Value',
     appId: '1:332708430788:ios:ca5ce1a2d2d6f1c169da91',
     messagingSenderId: '332708430788',
     projectId: 'scape-nerf-fd54b',
-    databaseURL: 'https://scape-nerf-fd54b-default-rtdb.firebaseio.com',
-    storageBucket: 'scape-nerf-fd54b.appspot.com',
+    databaseURL: 'Enter Database URL',
+    storageBucket: 'Enter Value',
     iosBundleId: 'com.example.myApp',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyD9KmihbLrUOnYAP7gSxwZAWy8MftoX364',
+    apiKey: 'Enter Value',
     appId: '1:332708430788:web:6133a0bbb3f74efb69da91',
     messagingSenderId: '332708430788',
     projectId: 'scape-nerf-fd54b',
     authDomain: 'scape-nerf-fd54b.firebaseapp.com',
-    databaseURL: 'https://scape-nerf-fd54b-default-rtdb.firebaseio.com',
-    storageBucket: 'scape-nerf-fd54b.appspot.com',
+    databaseURL: 'Enter Database URL',
+    storageBucket: 'Enter Value',
     measurementId: 'G-GQ6QEFJ5YN',
   );
-
 }
